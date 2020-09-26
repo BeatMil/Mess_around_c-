@@ -6,7 +6,7 @@ int main()
     /* I'm getting back to c++ and learn algorithm!
      This code is just me messing around :) */
     // and also this is one line comment
-    
+
 
     int my_int;
     my_int = 16;
